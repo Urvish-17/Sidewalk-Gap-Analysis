@@ -1,5 +1,7 @@
 # Sidewalk-Gap-Analysis
 
+# Sidewalk-Gap-Analysis
+
 ---
 
 ## 🛠 Tools & Technologies
@@ -46,10 +48,10 @@
 
 ## 📊 Results
 
-- ✅ 100% of West Seneca and Orchard Park sidewalk segments digitized
-- 🧩 450+ sidewalk gaps identified and flagged
-- 📈 Ready-to-use maps exported for urban planning departments
-- 🛠 Spatial data validated through QA/QC topology rules
+- ✅ 100% of West Seneca and Orchard Park sidewalk segments digitized  
+- 🧩 450+ sidewalk gaps identified and flagged  
+- 📈 Ready-to-use maps exported for urban planning departments  
+- 🛠 Spatial data validated through QA/QC topology rules  
 
 ---
 
@@ -63,11 +65,12 @@ Some files are mock/demo versions due to data privacy agreements. The project st
 
 **Urvish Raval**  
 GIS Intern @ GoBike Buffalo  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/urvish-raval-7296101a0) • [Email](mail to:rawalurvish9876@gmail.com)
 
 ---
 
 ## 📄 License
 
 This project is open-source for learning and portfolio purposes. Please attribute credit when using.
+
 
